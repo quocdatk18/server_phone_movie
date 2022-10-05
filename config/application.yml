@@ -1,0 +1,7 @@
+DATABASE_USER_NAME: 'root'
+DATABASE_PASSWORD: 'Quocdat123'
+DEVELOPMENT_DATABASE_NAME: 'quocdat'
+TEST_DATABASE_NAME: 'test'
+PRODUCTION_DATABASE_NAME: 'production'
+# MAIL_USER_NAME: 'quocdatlop109@gmail.com'
+# MAIL_PASSWORD : 'qkwcmuljllrfuscd'
